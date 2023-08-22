@@ -1,6 +1,6 @@
 # Attempted implementation of CAMOU in PyTorch
 
-(CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild)[https://openreview.net/pdf?id=SJgEl3A5tm]
+[CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild](https://openreview.net/pdf?id=SJgEl3A5tm)
 
 I started this project for a research assignment and never finished it due to a shift in research direction. I do not think that the clone network works. 
 
